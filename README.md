@@ -15,13 +15,17 @@ S.No	Name of the Apparatus	Range	Quantity
 6	Digital Voltmeter	(0-20)V DC	1
 7	Connecting Wires	As Required	
 
-## CIRCUIT DIAGRAM:
+# CIRCUIT DIAGRAM:
 
-Line regulation:
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c2127835-cb00-4221-9f73-74f38e7bbe86" />
+line regulation:
 
-Load Regulation:
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/92220673-40de-45e4-a99d-6a4de0009d63" />
+<img width="1600" height="900" alt="506893167-6ef3f6d6-b871-4ae2-95e3-d5e8b78ab9a4" src="https://github.com/user-attachments/assets/26b93bbe-95ae-4168-a429-0222b689c278" />
+
+load regulation:
+
+<img width="1600" height="900" alt="506893196-d5329ef3-bb51-4c5a-9916-75136a97f13f" src="https://github.com/user-attachments/assets/8664be66-70ee-4320-ba99-8791ff8e3d5e" />
+
+
 
 ## THEORY:
 	
